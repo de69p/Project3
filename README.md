@@ -14,17 +14,29 @@ The program will demonstrate the usage of different sorting algorithms by sortin
 The program implements the following sorting algorithms:
 
 - **Insertion Sort**: Sorts an array by repeatedly inserting each element into its correct position in a sorted subarray. It has a time complexity of O(n^2).
-  ![Insertion Sort Visualization](media/Insertion-sort.gif)
 - **Bubble Sort**: Sorts an array by repeatedly swapping adjacent elements if they are in the wrong order. It has a time complexity of O(n^2).
-  ![Bubble Sort Visualization](media/Bubble-sort.gif)
 - **Selection Sort**: Sorts an array by repeatedly selecting the minimum element from the unsorted part and swapping it with the first element. It has a time complexity of O(n^2).
-  ![Selection Sort Visualization](media/Selection-Sort.gif)
 - **ShellSort**: Sorts an array using the ShellSort algorithm, which is an optimized variation of the Insertion Sort algorithm. It has an average-case time complexity of O(n log n).
-  ![ShellSort Visualization](shellsort.png)
 - **MergeSort**: Sorts an array using the MergeSort algorithm, which divides the array into two halves, sorts them separately, and then merges them. It has an average-case time complexity of O(n log n).
-  ![MergeSort Visualization](media/Merge-sort.gif)
 - **QuickSort**: Sorts an array using the QuickSort algorithm, which partitions the array into smaller subarrays and recursively sorts them. It has an average-case time complexity of O(n log n).
-  ![QuickSort Visualization](media/Quick-sort.gif)
+
+Below are visualizations of the sorting algorithms:
+
+### Insertion Sort
+
+![Insertion Sort Visualization](media/Insertion-sort.gif)
+
+### Bubble Sort
+![Bubble Sort Visualization](media/Bubble-sort.gif)
+
+### Selection Sort
+![Selection Sort Visualization](media/Selection-Sort.gif)
+
+### ShellSort
+![ShellSort Visualization](shellsort.png)
+
+### QuickSort
+![QuickSort Visualization](media/Quick-sort.gif)
 
 ## Empirical Analysis
 
