@@ -20,24 +20,6 @@ The program implements the following sorting algorithms:
 - **MergeSort**: Sorts an array using the MergeSort algorithm, which divides the array into two halves, sorts them separately, and then merges them. It has an average-case time complexity of O(n log n).
 - **QuickSort**: Sorts an array using the QuickSort algorithm, which partitions the array into smaller subarrays and recursively sorts them. It has an average-case time complexity of O(n log n).
 
-Below are visualizations of the sorting algorithms:
-
-### Insertion Sort
-
-![Insertion Sort Visualization](media/Insertion-sort.gif)
-
-### Bubble Sort
-![Bubble Sort Visualization](media/Bubble-sort.gif)
-
-### Selection Sort
-![Selection Sort Visualization](media/Selection-Sort.gif)
-
-### ShellSort
-![ShellSort Visualization](shellsort.png)
-
-### QuickSort
-![QuickSort Visualization](media/Quick-sort.gif)
-
 ## Empirical Analysis
 
 The program includes an empirical analysis of the sorting algorithms' performance. It measures the execution time of each sorting algorithm for different input sizes and outputs the results. The analysis provides insights into the time complexity and relative performance of the sorting algorithms.
